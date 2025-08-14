@@ -1,0 +1,17 @@
+# Ignore all appsettings (contains DB credentials)
+appsettings*.json
+
+# Build output
+bin/
+obj/
+
+# User-specific files and local settings
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# Logs and temp files
+*.log
